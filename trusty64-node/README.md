@@ -2,6 +2,8 @@
 
 To use this project, first install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and [Vagrant](https://www.vagrantup.com/downloads.html). 
 
+This box is available at [urban/trusty64-node](https://vagrantcloud.com/urban/trusty64-node).
+
 ## Build
 
 1. To build and run the VM by typing the following into terminal:
